@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.deps.json
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.dll
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.pdb
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.dll
+/Users/koji/Repositories/Csharp/Factories/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.pdb
