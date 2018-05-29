@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.deps.json
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.dll
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.pdb
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.dll
+/Users/koji/Repositories/Csharp/Factories/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.pdb
