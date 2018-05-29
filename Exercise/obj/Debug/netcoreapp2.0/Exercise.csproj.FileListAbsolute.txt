@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Factories/Exercise/obj/Debug/netcoreapp2.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Factories/Exercise/obj/Debug/netcoreapp2.0/Exercise.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Factories/Exercise/obj/Debug/netcoreapp2.0/Exercise.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Factories/Exercise/bin/Debug/netcoreapp2.0/Exercise.deps.json
+/Users/koji/Repositories/Csharp/Factories/Exercise/bin/Debug/netcoreapp2.0/Exercise.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Factories/Exercise/bin/Debug/netcoreapp2.0/Exercise.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Factories/Exercise/bin/Debug/netcoreapp2.0/Exercise.dll
+/Users/koji/Repositories/Csharp/Factories/Exercise/bin/Debug/netcoreapp2.0/Exercise.pdb
+/Users/koji/Repositories/Csharp/Factories/Exercise/obj/Debug/netcoreapp2.0/Exercise.dll
+/Users/koji/Repositories/Csharp/Factories/Exercise/obj/Debug/netcoreapp2.0/Exercise.pdb
